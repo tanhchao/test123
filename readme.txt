@@ -7,3 +7,7 @@ Git is free software.
 
 修改1
 修改2
+
+ git checkout -- readme.txt  111
+ 
+  git checkout -- readme.txt  222
