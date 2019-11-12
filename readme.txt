@@ -11,3 +11,5 @@ Git is free software.
  git checkout -- readme.txt  111
  
  git checkout -- readme.txt 222
+ 
+ 大功告成
