@@ -13,3 +13,17 @@ Git is free software.
  git checkout -- readme.txt 222
  
  大功告成
+ 
+ git remote add origin http://---
+ 
+ git remote add origin
+ 
+ git remote add origin
+ 
+ git push -u origin master
+ 
+ git push -u origin master
+ 
+ git remote add origin 
+ 
+ git push -u origin master
