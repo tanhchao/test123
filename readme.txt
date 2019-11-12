@@ -8,22 +8,15 @@ Git is free software.
 修改1
 修改2
 
- git checkout -- readme.txt  111
- 
- git checkout -- readme.txt 222
- 
- 大功告成
- 
- git remote add origin http://---
- 
- git remote add origin
- 
- git remote add origin
+ git remote add origin http://==
  
  git push -u origin master
  
  git push -u origin master
  
- git remote add origin 
+ git remote add origin http:///==
  
- git push -u origin master
+ 
+ git push -u origin mastser
+ 
+ 
